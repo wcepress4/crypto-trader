@@ -1,4 +1,4 @@
-# Crypto Trading Program
+# Numismatist
 > You can find the live demo for this project [here]() (coming soon). Check out [my website](https://wcepress.me/) for any updates.
 ## Introduction
 ------------
