@@ -1,5 +1,5 @@
 # Crypto Trading Program
-> You can find the live demo for this project [here]() (coming soon). Check out [my website](https://wcepress4.github.io/) for any updates.
+> You can find the live demo for this project [here]() (coming soon). Check out [my website](https://wcepress.me/) for any updates.
 ## Introduction
 ------------
 This is the repository for an autonomous trading program that is designed to optimize cryptocurrency investments, ensuring continuous operation for maximizing profits. 
